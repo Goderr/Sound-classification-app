@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+librosa
+gradio
+scikit-learn
+matplotlib
+tqdm
+
